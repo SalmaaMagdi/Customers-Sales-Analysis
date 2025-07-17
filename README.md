@@ -1,4 +1,4 @@
-# Customers-Sales-Analysis
+# Customers-Sales-Analysis_by_Power_BI
 📊 Project Overview
 This project focuses on analyzing sales and order data using interactive dashboards created in Power BI. The goal is to provide clear insights into revenue, product performance, category trends, and geographical distribution of orders. The project is divided into two main dashboards:
 
